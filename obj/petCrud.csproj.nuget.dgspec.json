@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/adriano/Documents/petCrud/petCrud.csproj": {}
+    "/home/adriano-souza/Documents/pet-crud/petCrud.csproj": {}
   },
   "projects": {
-    "/home/adriano/Documents/petCrud/petCrud.csproj": {
+    "/home/adriano-souza/Documents/pet-crud/petCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/adriano/Documents/petCrud/petCrud.csproj",
+        "projectUniqueName": "/home/adriano-souza/Documents/pet-crud/petCrud.csproj",
         "projectName": "petCrud",
-        "projectPath": "/home/adriano/Documents/petCrud/petCrud.csproj",
-        "packagesPath": "/home/adriano/.nuget/packages/",
-        "outputPath": "/home/adriano/Documents/petCrud/obj/",
+        "projectPath": "/home/adriano-souza/Documents/pet-crud/petCrud.csproj",
+        "packagesPath": "/home/adriano-souza/.nuget/packages/",
+        "outputPath": "/home/adriano-souza/Documents/pet-crud/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/adriano/.nuget/NuGet/NuGet.Config"
+          "/home/adriano-souza/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

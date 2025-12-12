@@ -1,8 +1,15 @@
+using PetCrud;
+using PetCrud.service;
+using PetCrud.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<PetService>();
+builder.Services.AddScoped<PetRepository>();
+
 
 var app = builder.Build();
 
